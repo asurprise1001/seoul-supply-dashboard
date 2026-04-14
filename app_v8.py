@@ -5,7 +5,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 
 st.set_page_config(
-    page_title="서울 자치구 공급자 대시보드",
+    page_title="서울시 자치구별 유아 친화 지표",
     page_icon="👶",
     layout="wide",
     initial_sidebar_state="expanded"
